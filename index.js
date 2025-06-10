@@ -1,1 +1,1 @@
-alert("Script connected!");
+// alert("Script connected!");
